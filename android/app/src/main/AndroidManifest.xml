@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.udc_eats">
    <application
-        android:label="udc_eats"
+        android:label="UDC Eats"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
