@@ -13,3 +13,5 @@ UDC Eats es una aplicación para Android en la que los usuarios de la Universida
 ## Enlace para descargar el APK:
 
 [UDC Eats](https://drive.google.com/file/d/1mCZiYDptRXUmUlSSIoouKNJYP7MCnO_8/view?usp=sharing)
+
+Revisado :heavy_check_mark:
